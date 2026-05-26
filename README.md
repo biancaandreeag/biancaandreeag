@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm Bianca</h1>
+<h1 align="center">🌸 Hi, I'm Bianca 🌸</h1>
 
 I'm a **junior developer** who loves building things end-to-end — from the first commit all the way to a service running in production.
 
