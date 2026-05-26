@@ -89,15 +89,6 @@ When I'm not coding, I'm reading about UX, branding & marketing, content design 
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biancaandreeag&show_icons=true&hide_border=true&icon_color=ff6fa3&title_color=ff6fa3" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaandreeag&layout=compact&hide_border=true&title_color=ff6fa3" height="160"/>
-</p>
-
----
-
 ### 📫 Reach me
 
 <p>
