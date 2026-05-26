@@ -82,7 +82,7 @@ When I'm not coding, I'm reading about UX, branding & marketing, content design 
 
 | Project | What it does | Tech |
 |---------|--------------|------|
-| 🛡️ [**likes2love**](https://github.com/biancaandreeag/likes2love-AIToolProject) | AI tool for cyberbullying detection on Facebook & TikTok | Python · NLP · Android |
+| 🛡️ [**likes2love**](https://github.com/biancaandreeag/likes2love-AIToolProject) | AI tool for cyberbullying detection on TikTok | Python · NLP · Docker |
 | 🧪 [**Manual Testing — Course Project**](https://github.com/biancaandreeag/ManualTesting-CourseProject) | Test plans, test cases and bug reports for a software testing course | QA · Documentation |
 
 > 📌 More pinned on the side — feel free to poke around.
