@@ -4,7 +4,7 @@ I'm a **junior developer** who loves building things end-to-end — from the fir
 
 What I enjoy most is the space where **development** and **creativity** overlap: turning ideas into products that not only work, but also *say* something. A good app is a mix of clean code, thoughtful design and a story worth telling — and I like sitting right at that intersection.
 
-When I'm not coding, I'm reading about UX, branding & marketing, content design and how teams ship great products to real users.
+When I'm not coding, I'm reading about UX, branding & marketing, content design and I enjoy reading, watching TV shows and walking outside.
 
 ---
 
