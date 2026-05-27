@@ -25,7 +25,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
 <table>
 <tr>
 <td valign="top" width="25%">
-**Languages**
+Languages
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -36,7 +36,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
  
 </td>
 <td valign="top" width="25%">
-**AI / ML**
+AI / ML
  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -46,7 +46,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
  
 </td>
 <td valign="top" width="25%">
-**Web & Design**
+Web & Design
  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -57,7 +57,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
  
 </td>
 <td valign="top" width="25%">
-**Databases**
+Databases
  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -68,7 +68,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
 </tr>
 <tr>
 <td valign="top" colspan="2">
-**Infra & DevOps**
+Infra & DevOps
  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -78,7 +78,7 @@ Right now I'm  exploring a little bit of everything — not to master it all at 
  
 </td>
 <td valign="top" colspan="2">
-**Automation & Observability**
+Automation & Observability
  
 ![Playwright](https://img.shields.io/badge/-Playwright%20%2F%20Scraping-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![ADB](https://img.shields.io/badge/-ADB-3DDC84?style=flat&logo=android&logoColor=white)
