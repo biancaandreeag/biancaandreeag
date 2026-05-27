@@ -12,12 +12,12 @@ Outside of work, I'm usually reading about UX, branding or content design, watch
 
 Right now I'm  exploring a little bit of everything — not to master it all at once, but to build a clearer picture of how it all fits together. A lot of this happens through vibe coding: spinning up small projects, breaking things, figuring out why — it's one of the fastest ways I know to actually *understand* something rather than just read about it.
 
-- 🤖 Building **AI agents** and experimenting with **LLMs**
+- Building **AI agents** and experimenting with **LLMs**
 - **iOS development**, alongside broader Android work
 - **Kubernetes & virtualization** — understanding infra end-to-end, not just running containers
 - **Security** — pentesting, reverse engineering; still early, but the curiosity is real and growing
 - **Networking** — CCNA-style foundations, hands-on with Packet Tracer
-- 🎨 The overlap between **engineering and product storytelling**
+- The overlap between **engineering and product storytelling**
 
 ---
 ## things I work with 🛠️
